@@ -2,4 +2,5 @@ Student A
 Student B
 Student C
 Student E
+**copied all students up to here to the groups**
 Student F
